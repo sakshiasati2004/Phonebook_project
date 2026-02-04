@@ -4,7 +4,8 @@ import csv
 phonebook = {
     "Rahul": "9876543210",
     "Sakshi": "9123456780",
-    "Aman": "9988776655"
+    "Aman": "9988776655",
+    "Harsh": "4567890877"
 }
 
 def load_from_csv():
